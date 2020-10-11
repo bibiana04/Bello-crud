@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "978889740198",
+    "firebase_url": "https://finapp-556e4.firebaseio.com",
+    "project_id": "finapp-556e4",
+    "storage_bucket": "finapp-556e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978889740198:android:0676b2ac0dee188ca24967",
+        "android_client_info": {
+          "package_name": "com.example.finapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978889740198-pgi5ab81njk0nded0pms6s47af8t57fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finapp",
+            "certificate_hash": "ef241ad4de482310a8cb78f716274644c28dcfc9"
+          }
+        },
+        {
+          "client_id": "978889740198-lerd77h4lasrh3ncvcb4fl18t3t504in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYdj2EQVNlINSlhyWtt3GBWurRprwqnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978889740198-lerd77h4lasrh3ncvcb4fl18t3t504in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
